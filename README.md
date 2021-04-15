@@ -2,7 +2,7 @@
 This Workout Tracker app allows user to track a workout. Various attributes of the workout can be stored. The workouts are saved in  Mongo database.
 
 ## Description 
-Created a fitness tracking app utilizing Node.js, Express.js, MongoDB, Heroku and Mongoose. Majority of the front end code was provided in a homework prompt as part of a web development boot camp. Allows the user to track their workouts and save them in a database.
+Created a fitness tracking app utilizing Node.js, Express.js, MongoDB, Heroku and Mongoose. Majority of the front end code was provided in as a homework prompt as part of a web development boot camp from UWA. Allows the user to track their workouts and save them in a database.
 
 ## Live site: 
 https://naresh-workout.herokuapp.com/
